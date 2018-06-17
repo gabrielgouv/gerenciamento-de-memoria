@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 import java.util.List;
 import java.util.Scanner;
 
-public class Testa {
+public class Teste {
 
 	private static Memoria memoria;
 	private static Scanner s;
@@ -31,7 +31,7 @@ public class Testa {
 
 			System.out.println("Escolha o algoritmo de gerenciamento de espaco:"
 					+ "\n1 - First Fit (primeiro encaixe)"
-					+ "\n2 - Next Fit (próximo encaixe)"
+					+ "\n2 - Next Fit (prÃ³ximo encaixe)"
 					+ "\n3 - Best Fit (melhor encaixe)"
 					+ "\n4 - Worst Fit (pior encaixe)"
 					+ "\n0 - Sair");
